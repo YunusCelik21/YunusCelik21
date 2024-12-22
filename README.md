@@ -1,10 +1,19 @@
-### I am studying computer engineering in Bilkent University, Turkey. I am currently interested in C++ and Java.
-<!--
-**YunusCelik21/YunusCelik21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I am Yunus 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I'm Studying at Bilkent
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java
--->
+I am a Computer Engineering undergraduate at **Bilkent University, Turkey**.
+
+I am passionate about Cloud Computing, Computer Networking, and Containerization. 
+
+I have experience with:
+
+C++, Java, JavaScript, Python, SystemVerilog, MIPS Assembly
+
+Docker, PostgreSQL, SQL, Firebase, Android Studio, React, Node.js, Express.js
+
+## Contact
+
+Email: 21yunuscelik21@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/yunus-%C3%A7elik-b24447247/
